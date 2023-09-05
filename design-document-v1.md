@@ -93,10 +93,8 @@ As stated before, the intention is to avoid definitive times and scheduling and 
 
 The first iteration of this will purely be front end based with mock data used for dummy endpoints. This is to focus more on establishing a PoC, getting user feedback, and iterating the UI/UX. Backend work will come if and when the PoC proves the app is feasible.
 
-### Stack  (not final)
+### Stack 
 
-- React
-  - Jest
-  - RTL
-- Typescript
-- Webpack
+- React Native
+- MySQL
+- Express/NodeJS
